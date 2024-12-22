@@ -1,7 +1,7 @@
 # PGCET-option-entry-results-Webscraping
 📊 Project Overview
 
-This project focuses on analyzing PG CET (Postgraduate Common Entrance Test) option entry data. The extracted data is stored in a CSV file, containing key insights into:
+This project focuses on analyzing PG CET (Postgraduate Common Entrance Test) option entry data. The extracted data is stored in a CSV file:
 
 Student Ranks who participated in option entry.
 Chosen Colleges based on ranks.
