@@ -35,4 +35,5 @@ The CSV file contains the following columns:
 
 Python – For data extraction and processing
 Pandas – For data manipulation
+BeautifulSoup - To Read the text formate of HTML
 CSV Files – For storing extracted data
