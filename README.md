@@ -9,6 +9,11 @@ Category-Wise Allotments of colleges.
 Trends in Option Entry Preferences.
 The goal is to simplify access to this data for further analysis and better decision-making.
 
+## Key Features
+*1*.Extracted PG CET option entry data and organized it into a structured CSV format.
+*2*. Clear visibility of student ranks and their college preferences.
+*3*. Detailed breakdown of category-wise seat allotments.
+*4*. Ready-to-use data for visualization and reporting purposes.
 ## Data Structure
 
 The CSV file contains the following columns:
