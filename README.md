@@ -13,14 +13,22 @@ The goal is to simplify access to this data for further analysis and better deci
 
 The CSV file contains the following columns:
 
-*CET_no* : PGCET Number
+*CET_no* : PGCET Number 
+
 *Name* : Name of Candidate
+
 *Rank* : Rank of the candidate
+
 *Verfied_cat* : Verified category of Candidate
+
 *Cat_alloted* : Alloted Category
+
 *College_alloted* : College Allooted to that candidate
+
 *course* : Course selected by that candidate
+
 *SNAO* : Serial Number of the Alloted Option
+
 *Fees* : Fees for college
 
 ## Technologies Used
